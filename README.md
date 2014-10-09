@@ -4,6 +4,8 @@ Deus-base
 A renaming of Anax, a boilerplate for smaller websites or webbapplications using PHP.
  
 Built by Mikael Roos
+
+Renamed by Christoffer Bäckström
  
 License 
 ------------------
